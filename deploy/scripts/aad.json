@@ -1,0 +1,18 @@
+{
+  "TenantId": "94ab1dd5-af66-4ff5-b205-21af1df7d9c7",
+  "Authority": "https://login.microsoftonline.com/",
+  "Audience": "https://iiotAAD.onmicrosoft.com/industrialIot5-service",
+  "ServiceId": "b819b195-8ebc-4e99-ba79-b824045c53b7",
+  "ServicePrincipalId": "a5ed174c-0c62-4dfb-80b2-334e740a88da",
+  "ServiceSecret": "ZgVUCT/hM21gm+4dFNo+1MC4XWvx2+gjL4GwLJ3lwNc=",
+  "ServiceDisplayName": "industrialIot5-service",
+  "ClientId": "2b27aec1-0a4a-4ce5-a36a-d08570a297bb",
+  "ClientPrincipalId": "d5d16b01-b179-4f03-abc5-7043ea8095b2",
+  "ClientDisplayName": "industrialIot5-client",
+  "WebAppId": "f9a3e511-85fc-4fb5-9345-1ae70046600b",
+  "WebAppPrincipalId": "d384226b-7260-402d-8e03-dad7e3826666",
+  "WebAppSecret": "FiRe6w6PwLXI/U8RwHyO0ngF9rMIFIuq1YTDuRkSW1I=",
+  "WebAppDisplayName": "industrialIot5-web",
+  "UserPrincipalId": null,
+  "FallBackPrincipalId": "560751ac-08d1-4c02-8273-1c2c05a0f8a7"
+}
